@@ -1,4 +1,4 @@
-public class Sum {
+public class Diff {
  
     public static void main(String[] args)
     {
@@ -6,6 +6,6 @@ public class Sum {
         int b = 18;
         // It will return the sum of two arguments.
         System.out.println("The sum is = "
-                           + Integer.sum(a, b));
+                           + Integer.Diff(a, b));
     }
 }
